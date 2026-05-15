@@ -6,7 +6,7 @@ ere, hau joku bat baina ez da. Nahiago dugu norberak norberarentzat arau
 sorta bat planteatzea eta jarraitzea. Hauek erreferentzia bezala balio
 izatea espero dugu.
 
-2026/05/06eko Gipuzkoako mendizale federazioko web orriko [pdf
+2026/05/06ko Gipuzkoako mendizale federazioko web orriko [pdf
 teknikoa][santabarbarapdf] hartu dugu erreferentziatzat beheko bide
 lista osatzeko. Ez dugu haren kopia bat hemen zuzenean partekatu
 sortzaileen eskubideak eta dokumentuak izan lezakeen lizentzia direla
