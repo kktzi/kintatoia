@@ -44,7 +44,7 @@ Arau gutxi batzuk proposatzen ditugu:
   Horrek bide guztiak "lehenengoz" eskalatu beharko ditu, eta
   jaisterakoan materiala garbitu. Gogoratu ez dela eskuz aurretik guztiz
   ezagutzen ez diren teknikak erabiltzen ikasteko momentu aproposena.
-- (Eskaera) Ikerlarien lana goraipatzeko, jantzi klasikoak ekartzeko 
+- (Eskaera) Irekitzaileen lana goraipatzeko, jantzi klasikoak ekartzeko 
   eskatuko degu. Honen barruan sartzen dira: arropa, oinetakoak, ta
   baita hamaiketakoa. 
 
