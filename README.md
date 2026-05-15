@@ -18,7 +18,7 @@ eta.
 # Arauak
 
 Arau gutxi batzuk proposatzen ditugu:
-- V+.
+- Bakarrik V+ graduatuta dauden bideak proposatu dira.
 - Bide bakoitzeko bariante bat egitearekin nahikoa da.
 - Bikoteka egin behar da.
 - A0 ez da baliozko progresio teknika. Hau da, ezin da seguru finkotatik
@@ -44,7 +44,9 @@ Arau gutxi batzuk proposatzen ditugu:
   Horrek bide guztiak "lehenengoz" eskalatu beharko ditu, eta
   jaisterakoan materiala garbitu. Gogoratu ez dela eskuz aurretik guztiz
   ezagutzen ez diren teknikak erabiltzen ikasteko momentu aproposena.
-
+- (Eskaera) Irekitzaileen lana goraipatzeko, jantzi klasikoak ekartzeko 
+  eskatuko degu. Honen barruan sartzen dira: arropa, oinetakoak, ta
+  baita hamaiketakoa. 
 
 # Bideak
 
