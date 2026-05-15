@@ -62,7 +62,7 @@ ere onartuta dago.
 ##  8. Cicatriz beatriz
 ##  9. Txomin felipe
 ## 10. Mireia
-## 11. Jordi, me caes cordo
+## 11. Jordi, me caes gordo
 ## 12. Fisura verde
 ## 13. Fisura berrio
 ## 14. Tximenea
