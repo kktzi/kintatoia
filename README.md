@@ -65,7 +65,7 @@ Erraza trilobites edo zer da haurekin konfunditzea.
 
 ##  4. Zero y medio
 Berdin du goian ezkerretik edo eskubitik joan.
-![Zero y medio](/assets/03-zeroymedio.jpg)
+![Zero y medio](/assets/04-zeroymedio.jpg)
 
 ##  5. Uno y medio
 Rokodromo.
