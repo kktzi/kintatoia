@@ -53,29 +53,83 @@ Guztira 24 bide dira. Lista honetan eskubitik (sarreratik) ezkerretara
 ere onartuta dago.
 
 ##  1. Zero (bariantea V+)
+Esango nuke bariantea eskubikoa dela, baina ez nago guztiz ziur.
+![Zero](/assets/01-zero.jpg)
+
 ##  2. Tres cuartos
+Erraza trilobites edo zer da haurekin konfunditzea.
+![Tres cuartos](/assets/02-trescuartos.jpg)
+
 ##  3. Diedro (V+ jartzen du beherago)
+![Diedro](/assets/03-diedro.jpg)
+
 ##  4. Zero y medio
+Berdin du goian ezkerretik edo eskubitik joan.
+![Zero y medio](/assets/03-zeroymedio.jpg)
+
 ##  5. Uno y medio
+Rokodromo.
+![unoymedio](/assets/05-unoymedio.jpg)
+
 ##  6. Txubaskeiro do pito
+![Txubaskeiro do pito](/assets/06-txubaskeirodopito.jpg)
+
 ##  7. Aisha
+![Aisha](/assets/07-aisha.jpg)
+
 ##  8. Cicatriz beatriz
+![Cicatriz beatriz](/assets/08-cicatrizbeatriz.jpg)
+
 ##  9. Txomin felipe
+![Txomin felipe](/assets/09-txominfelipe.jpg)
+
 ## 10. Mireia
+![Mireia](/assets/10-mireia2.jpg)
+
 ## 11. Jordi, me caes gordo
+![Jordi, me caes gordo](/assets/11-jordimecaesgordo.jpg)
+
 ## 12. Fisura verde
+![Fisura verde](/assets/12-fisuraverde.jpg)
+
 ## 13. Fisura berrio
+![Fisura berrio](/assets/13-fisuraberrio.jpg)
+
 ## 14. Tximenea
+Uste dut hau dela, baino ez dago oso argi. Krokis berrienekin alderatuta
+ere badirudi bide gehiago daudela hemen gaur egun.
+![Tximenea](/assets/14-tximenea.jpg)
+
 ## 15. Jaxinta (fisuak, friend)
+![Jaxinta (fisuak, friend)](/assets/15-jaxinta.jpg)
+
 ## 16. Iñaxi
+![Iñaxi](/assets/16-iñaxi.jpg)
+
 ## 17. Azken aurreko
+![Azken aurreko](/assets/17-azkenaurreko.jpg)
+
 ## 18. Oihana
+![Oihana](/assets/18-oihana.jpg)
+
 ## 19. Harriketarrak
+Bidea pixkat izkutatuta dago.
+
 ## 20. Altzairu
+Beharbada hau da... beharbada ondokoa.
+![Altzairu](/assets/20-altzairu.jpg)
+
 ## 21. Klasika
+![Klasika](/assets/21-klasika.jpg)
+
 ## 22. Txalaparta
+![Txalaparta](/assets/22-txalaparta.jpg)
+
 ## 23. Mc.Nesio (bariantea)
+![Mc.Nesio (bariantea)](/assets/23-mcnesiobariante.jpg)
+
 ## 24. Mc.Arena
+![Mc.Arena](/assets/24-mcarena.jpg)
 
 
 # Hitz batzuk
